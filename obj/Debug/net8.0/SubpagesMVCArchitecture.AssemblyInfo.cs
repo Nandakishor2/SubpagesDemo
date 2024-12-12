@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubpagesMVCArchitecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e795ee4087998294adbe22b9c0eed751989a7dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubpagesMVCArchitecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubpagesMVCArchitecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
